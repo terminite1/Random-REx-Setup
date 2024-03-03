@@ -75,7 +75,6 @@ limitedoff = [
     "Coal Smokebomb",
     "Metamorphosis Hourglass",
     "Phantasm Lantern",
-    "Candy Bucket",
     "Heartbreaker",
     "Freeze Frag"
 ]
